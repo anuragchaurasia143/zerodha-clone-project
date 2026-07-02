@@ -16,11 +16,11 @@ function Footer() {
               &copy; 2010 2010 - 2025, Zerodha Broking Ltd.All rights reserved.
             </p>
             <div className="text-muted" id= "icons">
-            <a href = "https://x.com/zerodha " className="text-muted" target = "_blank" rel="noreferrer" aria-lable="twitter"> <i class="fa fa-twitter" aria-hidden="true"></i></a>  
-            <a href =" https://www.facebook.com/zerodha.social" className="text-muted" target="_blank" rel= "noreferrer" aria-lable="facebook"> <i class="fa fa-facebook-official" aria-hidden="true"></i></a> 
-            <a href =" https://www.instagram.com/zerodhaonline/ " className="text-muted" target="_blank" rel= "noreferrer" aria-lable="instagram"> <i class="fa fa-instagram" aria-hidden="true"></i></a> 
-            <a href =" https://www.linkedin.com/company/zerodha/" className="text-muted" target="_blank" rel= "noreferrer" aria-lable="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>  
-            <a href =" https://t.me/zerodhain" className="text-muted" target="_blank" rel= "noreferrer" aria-lable="telegram"><i class="fa fa-telegram" aria-hidden="true"></i></a>  
+            <a href = "https://x.com/zerodha " className="text-muted" target = "_blank" rel="noreferrer" aria-label="twitter"> <i class="fa fa-twitter" aria-hidden="true"></i></a>  
+            <a href =" https://www.facebook.com/zerodha.social" className="text-muted" target="_blank" rel= "noreferrer" aria-label="facebook"> <i class="fa fa-facebook-official" aria-hidden="true"></i></a> 
+            <a href =" https://www.instagram.com/zerodhaonline/ " className="text-muted" target="_blank" rel= "noreferrer" aria-label="instagram"> <i class="fa fa-instagram" aria-hidden="true"></i></a> 
+            <a href =" https://www.linkedin.com/company/zerodha/" className="text-muted" target="_blank" rel= "noreferrer" aria-label="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>  
+            <a href =" https://t.me/zerodhain" className="text-muted" target="_blank" rel= "noreferrer" aria-label="telegram"><i class="fa fa-telegram" aria-hidden="true"></i></a>  
             </div>
           </div>
           <div className="col">

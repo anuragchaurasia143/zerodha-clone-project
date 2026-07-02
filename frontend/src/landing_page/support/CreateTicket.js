@@ -70,7 +70,7 @@ function CreateTicket() {
             <i class="fa fa-bar-chart" aria-hidden="true"></i> Your Zerodha
             Account
           </h5>
-          <a></a>
+          
           <a href="/support" style={{ textDecoration: "none", lineHeight: "2" }}>
             Margin/leverage, Product and Order types
           </a>
@@ -152,7 +152,7 @@ function CreateTicket() {
           <h5 className="text-muted">
             <i class="fa fa-circle-thin" aria-hidden="true"></i> coin
           </h5>
-          <a></a>
+          
           <a href="/support" style={{ textDecoration: "none", lineHeight: "2" }}>
             Understanding Mutual Funds
           </a>

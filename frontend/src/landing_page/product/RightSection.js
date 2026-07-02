@@ -17,7 +17,7 @@ function RightSection({
                     <a href={learnMore}>Learn More</a>
                 </div>
                 <div className='col'>
-                    <img src={imageURL} alt="image"/>
+                    <img src={imageURL} alt="console logo"/>
                 </div>
             </div>
         </div>

@@ -14,7 +14,7 @@ function LeftSection({
         <div className='container'>
             <div className='row'>
                 <div className='col p-5'>
-                    <img src={imageURL}  alt="image" />
+                    <img src={imageURL}  alt="kite logo" />
                 </div>
                 <div className='col p-5 mt-5'>
                     <h1>{productName}</h1>
@@ -24,8 +24,8 @@ function LeftSection({
                         <a href={learnMore} style={{marginLeft:"50px", textDecoration:"none"}}>Learn More </a>
                     </div>
                     <div className='mt-3'>
-                    <a href={googlePlay}><img src="media/images/googlePlayBadge.svg"/></a>
-                    <a href={appStore} style={{marginLeft:"50px"}}><img src="media/images/appstoreBadge.svg"/></a>
+                    <a href={googlePlay}><img src="media/images/googlePlayBadge.svg" alt="google play badge"/></a>
+                    <a href={appStore} style={{marginLeft:"50px"}}><img src="media/images/appstoreBadge.svg" alt ="appstore badge"/></a>
                     </div>
                     
                 </div>
