@@ -20,7 +20,7 @@ function Signup() {
     e.preventDefault();
 
     try {
-      const res = await axios.post("http://localhost:3002/signup", user);
+      const res = await axios.post("https://zerodha-backend-3fi6.onrender.com//signup", user);
 
       alert(res.data.message);
     } catch (err) {

@@ -19,7 +19,7 @@ function Login() {
 
     try {
       const res = await axios.post(
-        "http://localhost:3002/login",
+        "https://zerodha-backend-3fi6.onrender.com//login",
         user
       );
 
@@ -27,7 +27,7 @@ function Login() {
 
       localStorage.setItem("isLoggedIn", "true");
 
-      window.location.href = "http://localhost:3005";
+      window.location.href = "https://zerodha-backend-3fi6.onrender.com/";
 
     } catch (err) {
       alert(
