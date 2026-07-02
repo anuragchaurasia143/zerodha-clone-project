@@ -5,7 +5,7 @@ function Hero() {
     <section className="container-fluid" id="supportHero">
       <div className="p-5" id="suppportwrapper">
         <h5>Support Portal</h5>
-        <a href="" style={{ color: "white" }}>
+        <a href="/support" style={{ color: "white" }}>
           {" "}
           Track Tickets
         </a>
@@ -17,17 +17,17 @@ function Hero() {
           </h1>
           <input className="mb-3" placeholder="Eg. how do i activate F&Q, why is my order getting rejected." />
           <br />
-          <a href="" className="mx-2">Track account opening</a>
-          <a href="" className="mx-2">Track segment activation</a>
-          <a href="" className="mx-2">Intraday</a><br />
-          <a href="" className="mx-2">margins </a>
-          <a href="" className="mx-2">Kite user manual</a>
+          <a href="/support" className="mx-2">Track account opening</a>
+          <a href="/support" className="mx-2">Track segment activation</a>
+          <a href="/support" className="mx-2">Intraday</a><br />
+          <a href="/support" className="mx-2">margins </a>
+          <a href="/support" className="mx-2">Kite user manual</a>
         </div>
         <div className="col-6 p-5 ">
           <h1 className="fs-3">Featured</h1>
           <ol style={{lineHeight:"2"}}>
-            <li><a href="">Current Takeovers and Delisting - January 2026</a></li>
-           <li><a href="">Latest Intraday leverages - MIS & CO </a></li> 
+            <li><a href="/support">Current Takeovers and Delisting - January 2026</a></li>
+           <li><a href="/support">Latest Intraday leverages - MIS & CO </a></li> 
           </ol>
         </div>
       </div>

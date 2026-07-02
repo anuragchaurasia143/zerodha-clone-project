@@ -23,8 +23,8 @@ function Stats() {
                 <div className='col-6 p-5'>
                     <img src="media/images/ecosystem.png" alt="ecosystem.png" style={{width:"95%"}}/>
                     <div className='text-center'>
-                    <Link to = "/product"  > <a  className="mx-5" href="" style={{textDecoration:"none"}}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> </Link> 
-                        <a href="" style={{textDecoration:"none"}}>Try kite <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    <Link to = "/product"  > <a  className="mx-5" href="/product" style={{textDecoration:"none"}}>Explore our products <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a> </Link> 
+                        <a href="https://kite-demo.zerodha.com/dashboard" style={{textDecoration:"none"}}>Try kite <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>

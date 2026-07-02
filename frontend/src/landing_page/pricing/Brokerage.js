@@ -6,7 +6,7 @@ function Brokerage() {
         <div className='container'>
             <div className='row p-5 mt-4 border-top'>
                 <div className='col-8'>
-                   <a href="" style={{textDecoration:"none"}}> <h4 className='text-center fs-5'>Brokerage calculator</h4></a>
+                   <a href="https://zerodha.com/brokerage-calculator#tab-equities" style={{textDecoration:"none"}}> <h4 className='text-center fs-5'>Brokerage calculator</h4></a>
                     <ul className='mt-4 text-muted' style={{ lineHeight:"2.5"}}>
                         <li>Call& Trade and RMS auto-squareoff: Additional charges of <i class="fa fa-inr" aria-hidden="true"></i>50 + GST per order.</li>
                         <li>Digital contract notes will be sent via e-mail.</li>
@@ -17,7 +17,7 @@ function Brokerage() {
                     </ul>
                 </div>
                 <div className='col-4'>
-                   <a href="" style={{textDecoration:"none"}}> <h4 className='text-center fs-5'> List of charges</h4>
+                   <a href="/pricing" style={{textDecoration:"none"}}> <h4 className='text-center fs-5'> List of charges</h4>
    </a>             </div>
             </div>
         </div>

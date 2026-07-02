@@ -14,7 +14,7 @@ function LeftSection({
         <div className='container'>
             <div className='row'>
                 <div className='col p-5'>
-                    <img src={imageURL}/>
+                    <img src={imageURL}  alt="image" />
                 </div>
                 <div className='col p-5 mt-5'>
                     <h1>{productName}</h1>

@@ -16,17 +16,17 @@ function Footer() {
               &copy; 2010 2010 - 2025, Zerodha Broking Ltd.All rights reserved.
             </p>
             <div className="text-muted" id= "icons">
-            <a href = "https://x.com/zerodha " className="text-muted"> <i class="fa fa-twitter" aria-hidden="true"></i></a>  
-            <a href =" https://www.facebook.com/zerodha.social" className="text-muted" > <i class="fa fa-facebook-official" aria-hidden="true"></i></a> 
-            <a href =" https://www.instagram.com/zerodhaonline/ " className="text-muted"> <i class="fa fa-instagram" aria-hidden="true"></i></a> 
-            <a href =" https://www.linkedin.com/company/zerodha/" className="text-muted"><i class="fa fa-linkedin" aria-hidden="true"></i></a>  
-            <a href =" https://t.me/zerodhain" className="text-muted"><i class="fa fa-telegram" aria-hidden="true"></i></a>  
+            <a href = "https://x.com/zerodha " className="text-muted" target = "_blank" rel="noreferrer" aria-lable="twitter"> <i class="fa fa-twitter" aria-hidden="true"></i></a>  
+            <a href =" https://www.facebook.com/zerodha.social" className="text-muted" target="_blank" rel= "noreferrer" aria-lable="facebook"> <i class="fa fa-facebook-official" aria-hidden="true"></i></a> 
+            <a href =" https://www.instagram.com/zerodhaonline/ " className="text-muted" target="_blank" rel= "noreferrer" aria-lable="instagram"> <i class="fa fa-instagram" aria-hidden="true"></i></a> 
+            <a href =" https://www.linkedin.com/company/zerodha/" className="text-muted" target="_blank" rel= "noreferrer" aria-lable="linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>  
+            <a href =" https://t.me/zerodhain" className="text-muted" target="_blank" rel= "noreferrer" aria-lable="telegram"><i class="fa fa-telegram" aria-hidden="true"></i></a>  
             </div>
           </div>
           <div className="col">
             <p>Company</p>
             <a
-              href="#!"
+              href="/about"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted"
             >
@@ -34,7 +34,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/about"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -42,7 +42,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/about"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -50,7 +50,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/about"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -58,7 +58,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/about"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -66,7 +66,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="https://zerodha.tech/"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -74,7 +74,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/about"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -85,7 +85,7 @@ function Footer() {
           <div className="col">
             <p>Support</p>
             <a
-              href="#!"
+              href="/support"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -93,7 +93,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/support"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -101,7 +101,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/support"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -109,7 +109,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/support"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -117,7 +117,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="https://zerodha.com/z-connect/"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -125,7 +125,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="https://zerodha.com/z-connect/"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -133,7 +133,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="https://zerodha.com/z-connect/"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -144,7 +144,7 @@ function Footer() {
           <div className="col">
             <p>Account</p>
             <a
-              href="#!"
+              href="/signup"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -152,7 +152,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/signup"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -160,7 +160,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/signup"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -168,7 +168,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/signup"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -176,7 +176,7 @@ function Footer() {
             </a>
             <br />
             <a
-              href="#!"
+              href="/signup"
               style={{ textDecoration: "none", lineHeight: "2.5" }}
               className="text-muted "
             >
@@ -245,7 +245,7 @@ function Footer() {
         <div />
         <div className="text-center mt-3">
           <a
-            href="#!"
+            href="/signup"
             className="text-muted p-3"
             style={{ textDecoration: "none" }}
           >
@@ -259,35 +259,35 @@ function Footer() {
             BSE
           </a>
           <a
-            href="#!"
+            href="/signup"
             className="text-muted p-3"
             style={{ textDecoration: "none" }}
           >
             MCX
           </a>
           <a
-            href="#!"
+            href="/signup"
             className="text-muted p-3"
             style={{ textDecoration: "none" }}
           >
             Terms & conditions
           </a>
           <a
-            href="#!"
+            href="/signup"
             className="text-muted p-3"
             style={{ textDecoration: "none" }}
           >
             Policies & procedures
           </a>
           <a
-            href="#!"
+            href="/signup"
             className="text-muted p-3"
             style={{ textDecoration: "none" }}
           >
             Privacy
           </a>
           <a
-            href="#!"
+            href="/signup"
             className="text-muted p-3"
             style={{ textDecoration: "none" }}
           >
