@@ -108,9 +108,8 @@ npm start
 
 ## 📸 Screenshots
 
-<img width="1918" height="890" alt="Screenshot 2026-07-03 115040" src="https://github.com/user-attachments/assets/300143c8-344f-459a-86e9-a414ac1983e6" />
-<img width="1918" height="890" alt="Screenshot 2026-07-03 115040" src="https://github.com/user-attachments/assets/748c9651-a292-48d8-a43e-39619e4924f7" />
-<img width="1918" height="875" alt="Screenshot 2026-07-03 115000" src="https://github.com/user-attachments/assets/76544f38-3faa-4c2c-83d7-900bc3d9c72a" />
-<img width="1918" height="912" alt="Screenshot 2026-07-03 114913" src="https://github.com/user-attachments/assets/ce90f92d-e841-4207-b1a0-3b77826d62b6" />
-<img width="1536" height="776" alt="Screenshot 2026-07-03 114855" src="https://github.com/user-attachments/assets/f41f88d1-6458-4a69-b8f1-8d94fdc12512" />
+<img width="1536" height="776" alt="Screenshot 2026-07-03 114855" src="https://github.com/user-attachments/assets/65ff4a7c-c3de-4b87-a0c9-6a1d4ea9e761" />
+<img width="1918" height="912" alt="Screenshot 2026-07-03 114913" src="https://github.com/user-attachments/assets/17b9559a-b574-48c4-8643-9e1e871778b4" />
+<img width="1918" height="875" alt="Screenshot 2026-07-03 115000" src="https://github.com/user-attachments/assets/1c702c2c-a31a-47e3-92d5-dff0a601753a" />
+<img width="1918" height="890" alt="Screenshot 2026-07-03 115040" src="https://github.com/user-attachments/assets/f08f27d4-8e72-44ef-91e5-0b4da8b2a373" />
 
