@@ -27,7 +27,7 @@ function Login() {
 
       localStorage.setItem("isLoggedIn", "true");
 
-      window.location.href = "https://zerodha-backend-3fi6.onrender.com";
+      window.location.href = "https://zerodha-dashboard-black.vercel.app";
 
     } catch (err) {
       alert(
