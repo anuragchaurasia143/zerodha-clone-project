@@ -25,6 +25,7 @@ app.use(cors({
     "https://zerodha-clone-five-omega.vercel.app",
     "https://zerodha-dashboard-black.vercel.app"
   ],
+  methods: ["GET", "POST" , "PUT", "DELETE","OPTIONS"],
   credentials: true
 }));
 app.use(bodyParser.json());
