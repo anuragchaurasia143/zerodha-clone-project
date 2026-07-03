@@ -22,8 +22,8 @@ const app = express();
 
 app.use(cors({
   origin: [
-    "https://zerodha-clone-five-omega.vercel.app/",
-    "https://zerodha-dashboard-black.vercel.app/"
+    "https://zerodha-clone-five-omega.vercel.app",
+    "https://zerodha-dashboard-black.vercel.app"
   ],
   credentials: true
 }));
