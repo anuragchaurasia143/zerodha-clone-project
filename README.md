@@ -10,9 +10,6 @@ https://zerodha-clone-five-omega.vercel.app
 ### Dashboard
 https://zerodha-dashboard-black.vercel.app
 
-### Backend API
-https://zerodha-backend-3fi6.onrender.com
-
 ---
 
 ## ✨ Features
